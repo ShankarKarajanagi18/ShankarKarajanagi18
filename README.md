@@ -34,7 +34,7 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 - **YBI Foundation - Python Programming (August 2024)**
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShankarKarajanagi18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -42,10 +42,9 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShankarKarajanagi18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Contact Me
-- **Email**: shankar.karajanagi7397@gmail.com
-- **LinkedIn**: [My Profile](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEahaU4BT6ok25oLhRNpR7R1PBU5llVHnXI&keywords=Karajanagi%20Shankar%20Piragonda&origin=ENTITY_SEARCH_HOME_HISTORY&sid=F9z)
-- **GitHub**: [My Repositories](https://github.com/your-github-username)
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ShankarKarajanagi18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankar_karajanagi19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karajanagi-shankar-piragonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shankar__45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar.karajanagi7397@gmail.com) 
+
 
 💡 Always open to collaborations, discussions, and learning opportunities!
 
