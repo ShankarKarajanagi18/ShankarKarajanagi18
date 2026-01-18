@@ -15,22 +15,22 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 ### 💼 Projects
 - **Online Shopping Website**: Developed an end-to-end online shopping platform featuring product listings, cart functionality, and order management.
 - **2048 Game**: Implemented the classic 2048 game using Python.
-- **Blood Bank Management System**: Industrial-grade web application with authentication, role-based access, and real-time geolocation.
+- **Plan and Trip** : Designed and implemented a modern responsive frontend for a travel booking web app with React. Built dynamic UI for destination search, trip planning, booking forms, and payment summary. Integrated interactive features such as animated navigation bar, modals, form validation, and attractive backgrounds using
+advanced CSS.
 - **AI & ML in Robotics**: Research seminar on applications of AI & ML in industrial and transportation robotics.
 
 ---
 
 ### 📜 Certifications
 - **DBMS (NPTEL)**
-- **Artificial Intelligence (RINEX)**
+- **Software Engineering (Infosys Springboard)**
 - **Python Programming Internship (YBI Foundation)**
 - **SQL (HackerRank)**
-- **UNIX & Linux Fundamentals (Infosys)**
+- **Cloud Computing (IBM)**
 
 ---
 
 ### 🎓 Internships
-- **InternPe - Web Development (July-August 2024)**
 - **YBI Foundation - Python Programming (August 2024)**
 
 ---
