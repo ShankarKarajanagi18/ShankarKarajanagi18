@@ -1,6 +1,6 @@
 ### Hi there, I'm Karajanagi Shankar Piragonda! 👋
 
-I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, expected to graduate in **June 2026**. Passionate about **web development, software engineering, AI & ML, and robotics**, I love building scalable applications and exploring innovative technologies.
+Passionate Computer Science student with a strong interest in full-stack development, software engineering, and modern web technologies. Experienced in building responsive web applications, designing scalable solutions, and working with technologies such as Java, Python, React, and FastAPI. Enthusiastic about continuous learning, problem-solving, and leveraging technology to create impactful applications.
 
 ---
 
