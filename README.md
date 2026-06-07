@@ -36,25 +36,19 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 - **YBI Foundation - Python Programming (August 2024)**
 
 ---
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShankarKarajanagi18&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=ShankarKarajanagi18&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShankarKarajanagi18&icon=5&color=12" alt="Profile Views" />
-</p>
+## 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=ShankarKarajanagi18&icon=5&color=12)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ShankarKarajanagi18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankar_karajanagi19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karajanagi-shankar-piragonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shankar__45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar.karajanagi7397@gmail.com) 
