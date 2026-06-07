@@ -15,9 +15,7 @@ Passionate Computer Science student with a strong interest in full-stack develop
 ### 💼 Projects
 
 - **AI-Powered Personal Finance Management Platform**: Developed a full-stack personal finance platform using React, FastAPI, MongoDB, and Machine Learning. Implemented expense tracking, income management, financial goal planning, and personalized investment recommendations using real-time market data.
-- **💊 AushadhiSaathi (ಔಷಧಿಸಾಥಿ)**
-
-AI-powered medicine safety assistant that helps patients understand prescriptions and verify medicine authenticity. Features AI-based prescription reading, medicine verification against regulatory data, counterfeit medicine reporting, and an ASHA worker dashboard for patient management and healthcare support. Built to improve healthcare accessibility for underserved communities.
+- **💊 AushadhiSaathi (ಔಷಧಿಸಾಥಿ)**: AI-powered medicine safety assistant that helps patients understand prescriptions and verify medicine authenticity. Features AI-based prescription reading, medicine verification against regulatory data, counterfeit medicine reporting, and an ASHA worker dashboard for patient management and healthcare support. Built to improve healthcare accessibility for underserved communities.
 
 
 - **Ticket Booking Application**: Built a responsive ticket booking platform using React 18 and JavaScript with features such as search, cart management, real-time availability tracking, and booking confirmation across devices.
