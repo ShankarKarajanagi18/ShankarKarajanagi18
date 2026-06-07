@@ -13,12 +13,14 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 ---
 
 ### 💼 Projects
-- **Online Shopping Website**: Developed an end-to-end online shopping platform featuring product listings, cart functionality, and order management.
-- **2048 Game**: Implemented the classic 2048 game using Python.
-- **Plan and Trip** : Designed and implemented a modern responsive frontend for a travel booking web app with React. Built dynamic UI for destination search, trip planning, booking forms, and payment summary. Integrated interactive features such as animated navigation bar, modals, form validation, and attractive backgrounds using
-advanced CSS.
-- **AI & ML in Robotics**: Research seminar on applications of AI & ML in industrial and transportation robotics.
 
+- **AI-Powered Personal Finance Management Platform**: Developed a full-stack personal finance platform using React, FastAPI, MongoDB, and Machine Learning. Implemented expense tracking, income management, financial goal planning, and personalized investment recommendations using real-time market data.
+
+- **Ticket Booking Application**: Built a responsive ticket booking platform using React 18 and JavaScript with features such as search, cart management, real-time availability tracking, and booking confirmation across devices.
+
+- **Plan and Trip – Travel Booking Platform**: Designed and developed a modern travel booking application using React, FastAPI, Firestore, and Google Cloud Platform. Implemented destination search, trip planning, booking workflows, and backend API integrations with a responsive user interface.
+
+- **Backend Development Internship Project**: Contributed to the development of scalable RESTful APIs using Python FastAPI and Google Cloud Run, working on authentication, session management, and real-time data features for a travel technology platform.
 ---
 
 ### 📜 Certifications
