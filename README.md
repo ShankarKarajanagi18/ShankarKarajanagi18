@@ -39,21 +39,15 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShankarKarajanagi18&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ShankarKarajanagi18&theme=github-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShankarKarajanagi18&icon=5&color=12" alt="Profile Views" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=github_dark" />
 </p>
 
 ## 🌐 Socials:
