@@ -6,8 +6,8 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 
 ### 🚀 Technical Skills
 - **Languages**: Java, Python, SQL, JavaScript
-- **Web Development**: HTML, CSS, Node.js, MySQL
-- **Databases**: MySQL, DBMS
+- **Web Development**: HTML, CSS,React, Node.js, FastAPI
+- **Databases**: MySQL, DBMS, MongoDB, FireStore
 - **Cloud & Tools**: Google Cloud Platform, VS Code, Eclipse
 
 ---
@@ -36,13 +36,25 @@ I'm a **Computer Science and Engineering (CSE) student** at **CMR University**, 
 - **YBI Foundation - Python Programming (August 2024)**
 
 ---
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShankarKarajanagi18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShankarKarajanagi18&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShankarKarajanagi18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ShankarKarajanagi18&icon=5&color=12" alt="Profile Views" />
+</p>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ShankarKarajanagi18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankar_karajanagi19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karajanagi-shankar-piragonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shankar__45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar.karajanagi7397@gmail.com) 
