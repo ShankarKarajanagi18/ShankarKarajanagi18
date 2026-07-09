@@ -1,4 +1,4 @@
-### Hi there, I'm Karajanagi Shankar Piragonda! 👋
+### Hi there, I'm Shankar Karajanagi! 👋
 
 Passionate Computer Science student with a strong interest in full-stack development, software engineering, and modern web technologies. Experienced in building responsive web applications, designing scalable solutions, and working with technologies such as Java, Python, React, and FastAPI. Enthusiastic about continuous learning, problem-solving, and leveraging technology to create impactful applications.
 
