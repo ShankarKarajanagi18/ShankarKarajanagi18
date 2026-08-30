@@ -25,7 +25,7 @@ const shankar = {
   stack: "Full-Stack (React / FastAPI / Node.js) + Machine Learning",
   currentlyBuilding: "APIs on GCP Cloud Run @ Brilliant AI Travel",
   currentlyLearning: "System design & scalable ML pipelines",
-  askMeAbout: ["React", "FastAPI", "scikit-learn", "GCP", "MySQL/PostgreSQL / MongoDB"],
+  askMeAbout: ["React", "FastAPI", "Machine Learning", "GCP", "MySQL/PostgreSQL / MongoDB"],
 };
 ```
 
