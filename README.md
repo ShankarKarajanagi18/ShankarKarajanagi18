@@ -31,6 +31,14 @@ const shankar = {
 
 ---
 
+### 💡 Philosophy
+
+> "Don't try to be the best. Do your best."
+
+I believe great AI systems are built through engineering discipline, continuous learning, and solving real-world problems — not by chasing hype.
+
+---
+
 ### Tech Stack
 
 **Frontend**
