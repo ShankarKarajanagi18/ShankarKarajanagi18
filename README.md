@@ -1,41 +1,142 @@
-### Hi there, I'm Shankar Karajanagi! 👋
+<div align="center">
 
-Passionate Computer Science student with a strong interest in full-stack development, software engineering, and modern web technologies. Experienced in building responsive web applications, designing scalable solutions, and working with technologies such as Java, Python, React, and FastAPI. Enthusiastic about continuous learning, problem-solving, and leveraging technology to create impactful applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=190&section=header&text=Shankar%20Karajanagi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend-Focused&descAlignY=58&descSize=17" width="100%"/>
 
----
+<a href="https://github.com/ShankarKarajanagi18">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Building+backend+services+with+FastAPI+%2B+GCP;Shipping+AI-powered+products+end-to-end;React+%2F+FastAPI+%2F+MongoDB+%2F+Firestore;Currently%3A+Backend+Intern+%40+Brilliant+AI+Travel" alt="Typing SVG" />
+</a>
 
-### 🚀 Technical Skills
-- **Languages**: Java, Python, SQL, JavaScript
-- **Web Development**: HTML, CSS,React, Node.js, FastAPI
-- **Databases**: MySQL, DBMS, MongoDB, FireStore
-- **Cloud & Tools**: Google Cloud Platform, VS Code, Eclipse
+![Location](https://img.shields.io/badge/📍-Bengaluru%2C_India-1a1a2e?style=flat-square)
+![Education](https://img.shields.io/badge/🎓-B.Tech_CS_%40_CMR_University-1a1a2e?style=flat-square)
+![Role](https://img.shields.io/badge/💼-Backend_Intern_%40_Brilliant_AI_Travel-1a1a2e?style=flat-square)
 
----
+</div>
 
-### 💼 Projects
+### About
 
-- **AI-Powered Personal Finance Management Platform**: Developed a full-stack personal finance platform using React, FastAPI, MongoDB, and Machine Learning. Implemented expense tracking, income management, financial goal planning, and personalized investment recommendations using real-time market data.
-- **💊 AushadhiSaathi (ಔಷಧಿಸಾಥಿ)**: AI-powered medicine safety assistant that helps patients understand prescriptions and verify medicine authenticity. Features AI-based prescription reading, medicine verification against regulatory data, counterfeit medicine reporting, and an ASHA worker dashboard for patient management and healthcare support. Built to improve healthcare accessibility for underserved communities.
+I build things that actually ship. Backend APIs handling real auth and sessions, ML models making real predictions, apps with real payment flows — not just tutorial projects.
 
+Right now I'm interning as a **Backend Developer at Brilliant AI Travel**, building FastAPI services on Google Cloud Run for a travel booking platform — auth, session management, and real-time data.
 
-- **Ticket Booking Application**: Built a responsive ticket booking platform using React 18 and JavaScript with features such as search, cart management, real-time availability tracking, and booking confirmation across devices.
-
-- **Plan and Trip – Travel Booking Platform**: Designed and developed a modern travel booking application using React, FastAPI, Firestore, and Google Cloud Platform. Implemented destination search, trip planning, booking workflows, and backend API integrations with a responsive user interface.
-
-- **Backend Development Internship Project**: Contributed to the development of scalable RESTful APIs using Python FastAPI and Google Cloud Run, working on authentication, session management, and real-time data features for a travel technology platform.
----
-
-### 📜 Certifications
-- **DBMS (NPTEL)**
-- **Software Engineering (Infosys Springboard)**
-- **Python Programming Internship (YBI Foundation)**
-- **SQL (HackerRank)**
-- **Cloud Computing (IBM)**
+```text
+const shankar = {
+  location: "Bengaluru, India",
+  languages_spoken: ["English", "Hindi", "Kannada"],
+  currentlyBuilding: "APIs on GCP Cloud Run @ Brilliant AI Travel",
+  currentlyLearning: "System design & scalable ML pipelines",
+  askMeAbout: ["FastAPI", "React", "GCP", "MongoDB / Firestore"],
+};
+```
 
 ---
 
-### 🎓 Internships
-- **YBI Foundation - Python Programming (August 2024)**
+### Tech Stack
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=java,python,js,react,nodejs,fastapi,mysql,mongodb,firebase,gcp,git,vscode&theme=dark)
+
+</div>
+
+---
+
+### Featured Projects
+
+<details>
+<summary><b>💰 AI-Powered Personal Finance Platform</b> — React · FastAPI · MongoDB · Machine Learning</summary>
+<br>
+
+Full-stack platform for expense tracking, income management, and financial goal planning. Trained RandomForest, GradientBoosting, KMeans, and Logistic Regression models on live Yahoo Finance data to generate personalized stock and mutual fund recommendations.
+
+</details>
+
+<details>
+<summary><b>💊 AushadhiSaathi (ಔಷಧಿಸಾಥಿ)</b> — OCR · Gemini API · Firestore · Kannada TTS</summary>
+<br>
+
+AI-powered medicine safety assistant for underserved communities. Reads prescriptions via OCR, verifies medicines against regulatory data, flags counterfeits, and speaks results back in Kannada (ElevenLabs / gTTS). Includes a dashboard for ASHA health workers to manage patients, plus OpenStreetMap-based facility lookup.
+
+</details>
+
+<details>
+<summary><b>✈️ Plan and Trip</b> — React · FastAPI · Firestore · Google Cloud Platform</summary>
+<br>
+
+Travel booking platform built during my internship at Brilliant AI Travel. Destination search, trip planning, and booking workflows, with PayU payment gateway integration and TripAdvisor Terra API for live destination data. Deployed to Firebase Hosting on GCP.
+
+</details>
+
+<details>
+<summary><b>🧴 Muskara</b> — React (Vite) · Express · MongoDB</summary>
+<br>
+
+Full-stack e-commerce storefront for a perfume brand — product catalog, cart, and order flow, built on a Vite + Express + MongoDB stack.
+
+</details>
+
+<details>
+<summary><b>🎟️ Ticket Booking Application</b> — React 18 · JavaScript</summary>
+<br>
+
+Responsive ticket booking platform with search, cart management, real-time seat availability, and booking confirmation — tested across devices.
+
+</details>
+
+<details>
+<summary><b>💬 Relay</b> — Node.js · Socket.io</summary>
+<br>
+
+Real-time chat application built on Socket.io, handling live messaging with persistent connections.
+
+</details>
+
+---
+
+### Certifications
+
+- 📊 **DBMS** — NPTEL
+- 🛠️ **Software Engineering** — Infosys Springboard
+- 🐍 **Python Programming Internship** — YBI Foundation
+- 🗄️ **SQL** — HackerRank
+- ☁️ **Cloud Computing** — IBM
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarKarajanagi18&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShankarKarajanagi18&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+
+</div>
+
+<!--
+Contribution snake — animates your commit graph into a moving snake.
+Requires the workflow file described below to generate it daily.
+-->
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ShankarKarajanagi18/ShankarKarajanagi18/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karajanagi-shankar-piragonda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://shankar-portfolio-delta.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShankarKarajanagi18&color=6366F1&style=flat-square&label=Profile+Views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
 
 ---
 ## 📊 GitHub Statistics
