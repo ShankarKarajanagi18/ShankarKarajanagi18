@@ -14,9 +14,9 @@
 
 ### About
 
-I build across the full stack — React and JavaScript on the frontend, FastAPI and Node.js APIs on the backend, PostgreSQL/MongoDB/Firestore for data, and scikit-learn/PyTorch models when a project needs intelligence baked in, not bolted on.
+I build across the full stack — React and JavaScript on the frontend, FastAPI, Flask, Java, and Node.js APIs on the backend, MySQL/PostgreSQL/MongoDB/Firestore for data, and scikit-learn/PyTorch models when a project needs intelligence baked in, not bolted on.
 
-Right now I'm interning as a **Backend Developer at Brilliant AI Travel**, building FastAPI services on Google Cloud Run for a travel booking platform — authentication, session management, and real-time data.
+Right now I'm interning at **Brilliant AI Travel**, building the entire travel booking platform end to end — React on the frontend, FastAPI services on Google Cloud Run for the backend, and Firebase for hosting and real-time data.
 
 ```text
 const shankar = {
@@ -25,7 +25,7 @@ const shankar = {
   stack: "Full-Stack (React / FastAPI / Node.js) + Machine Learning",
   currentlyBuilding: "APIs on GCP Cloud Run @ Brilliant AI Travel",
   currentlyLearning: "System design & scalable ML pipelines",
-  askMeAbout: ["React", "FastAPI", "scikit-learn", "GCP", "PostgreSQL / MongoDB"],
+  askMeAbout: ["React", "FastAPI", "scikit-learn", "GCP", "MySQL/PostgreSQL / MongoDB"],
 };
 ```
 
