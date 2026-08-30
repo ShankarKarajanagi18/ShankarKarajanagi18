@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=190&section=header&text=Shankar%20Karajanagi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend-Focused&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=190&section=header&text=Shankar%20Karajanagi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/ShankarKarajanagi18">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Building+backend+services+with+FastAPI+%2B+GCP;Shipping+AI-powered+products+end-to-end;React+%2F+FastAPI+%2F+MongoDB+%2F+Firestore;Currently%3A+Backend+Intern+%40+Brilliant+AI+Travel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+shipping+end-to-end+products;React+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL+%2F+MongoDB;ML%3A+scikit-learn+%7C+PyTorch+%7C+TensorFlow;Currently%3A+Backend+Intern+%40+Brilliant+AI+Travel" alt="Typing SVG" />
 </a>
 
 ![Location](https://img.shields.io/badge/📍-Bengaluru%2C_India-1a1a2e?style=flat-square)
@@ -14,17 +14,18 @@
 
 ### About
 
-I build things that actually ship. Backend APIs handling real auth and sessions, ML models making real predictions, apps with real payment flows — not just tutorial projects.
+I build across the full stack — React and JavaScript on the frontend, FastAPI and Node.js APIs on the backend, PostgreSQL/MongoDB/Firestore for data, and scikit-learn/PyTorch models when a project needs intelligence baked in, not bolted on.
 
-Right now I'm interning as a **Backend Developer at Brilliant AI Travel**, building FastAPI services on Google Cloud Run for a travel booking platform — auth, session management, and real-time data.
+Right now I'm interning as a **Backend Developer at Brilliant AI Travel**, building FastAPI services on Google Cloud Run for a travel booking platform — authentication, session management, and real-time data.
 
 ```text
 const shankar = {
   location: "Bengaluru, India",
   languages_spoken: ["English", "Hindi", "Kannada"],
+  stack: "Full-Stack (React / FastAPI / Node.js) + Machine Learning",
   currentlyBuilding: "APIs on GCP Cloud Run @ Brilliant AI Travel",
   currentlyLearning: "System design & scalable ML pipelines",
-  askMeAbout: ["FastAPI", "React", "GCP", "MongoDB / Firestore"],
+  askMeAbout: ["React", "FastAPI", "scikit-learn", "GCP", "PostgreSQL / MongoDB"],
 };
 ```
 
@@ -32,11 +33,30 @@ const shankar = {
 
 ### Tech Stack
 
-<div align="center">
+**Frontend**
 
-![Skills](https://skillicons.dev/icons?i=java,python,js,react,nodejs,fastapi,mysql,mongodb,firebase,gcp,git,vscode&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
 
-</div>
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=py,java,nodejs,express,fastapi&theme=dark)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark)
+
+**Machine Learning & Data**
+
+![ML](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![Cloud](https://skillicons.dev/icons?i=gcp,git,vscode,githubactions&theme=dark)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Scheduler](https://img.shields.io/badge/Cloud%20Scheduler-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -46,7 +66,9 @@ const shankar = {
 <summary><b>💰 AI-Powered Personal Finance Platform</b> — React · FastAPI · MongoDB · Machine Learning</summary>
 <br>
 
-Full-stack platform for expense tracking, income management, and financial goal planning. Trained RandomForest, GradientBoosting, KMeans, and Logistic Regression models on live Yahoo Finance data to generate personalized stock and mutual fund recommendations.
+Full-stack platform for expense tracking, income management, and financial goal planning, with JWT-based auth protecting user data end to end.
+
+On the ML side, I trained and compared RandomForest, GradientBoosting, KMeans, and Logistic Regression models (scikit-learn, with pandas/NumPy handling data prep and feature engineering) against live Yahoo Finance data, to generate personalized stock and mutual fund recommendations tailored to each user's goals and risk profile.
 
 </details>
 
@@ -54,15 +76,27 @@ Full-stack platform for expense tracking, income management, and financial goal 
 <summary><b>💊 AushadhiSaathi (ಔಷಧಿಸಾಥಿ)</b> — OCR · Gemini API · Firestore · Kannada TTS</summary>
 <br>
 
-AI-powered medicine safety assistant for underserved communities. Reads prescriptions via OCR, verifies medicines against regulatory data, flags counterfeits, and speaks results back in Kannada (ElevenLabs / gTTS). Includes a dashboard for ASHA health workers to manage patients, plus OpenStreetMap-based facility lookup.
+AI-powered medicine safety assistant built to improve healthcare access for underserved communities. Uses OCR plus the Gemini API to read handwritten and printed prescriptions, then cross-checks the extracted medicines against regulatory data to flag potential counterfeits — with a reporting flow for users who suspect a fake.
+
+Results are read back to patients in Kannada via ElevenLabs/gTTS text-to-speech, and an OpenStreetMap/Leaflet.js integration helps locate nearby verified pharmacies. A separate dashboard lets ASHA health workers manage patients and follow up on flagged cases, all backed by Firestore.
 
 </details>
 
 <details>
-<summary><b>✈️ Plan and Trip</b> — React · FastAPI · Firestore · Google Cloud Platform</summary>
+<summary><b>✈️ Plan and Trip</b> — React · FastAPI · Firestore · Google Cloud Run</summary>
 <br>
 
-Travel booking platform built during my internship at Brilliant AI Travel. Destination search, trip planning, and booking workflows, with PayU payment gateway integration and TripAdvisor Terra API for live destination data. Deployed to Firebase Hosting on GCP.
+Travel booking platform built during my internship at Brilliant AI Travel — destination search, trip planning, and booking workflows on a React frontend, backed by scalable RESTful FastAPI services deployed on Google Cloud Run.
+
+I worked on authentication, session management, and real-time data features, plus PayU payment gateway integration and the TripAdvisor Terra API for live destination content. Deployed to Firebase Hosting on GCP.
+
+</details>
+
+<details>
+<summary><b>📰 Blog Publishing Automation</b> — Cloud Scheduler · Cloud Functions · Firestore · Google Drive API</summary>
+<br>
+
+Automated the Plan and Trip blog pipeline to replace a fully manual daily Excel upload. A Cloud Scheduler job polls a Gen2 Cloud Function (Node 20) that watches a shared Google Drive inbox folder, validates each new entry, and writes it straight into Firestore in the same schema the site already expects — then moves the processed file into a published folder automatically.
 
 </details>
 
@@ -70,7 +104,7 @@ Travel booking platform built during my internship at Brilliant AI Travel. Desti
 <summary><b>🧴 Muskara</b> — React (Vite) · Express · MongoDB</summary>
 <br>
 
-Full-stack e-commerce storefront for a perfume brand — product catalog, cart, and order flow, built on a Vite + Express + MongoDB stack.
+Full-stack e-commerce storefront for a perfume brand, built on a Vite + React frontend with an Express/MongoDB backend — product catalog, cart, and the full order flow.
 
 </details>
 
@@ -78,7 +112,7 @@ Full-stack e-commerce storefront for a perfume brand — product catalog, cart, 
 <summary><b>🎟️ Ticket Booking Application</b> — React 18 · JavaScript</summary>
 <br>
 
-Responsive ticket booking platform with search, cart management, real-time seat availability, and booking confirmation — tested across devices.
+Responsive ticket booking platform with search and filtering, cart management, real-time seat availability tracking, and a booking confirmation flow tested across devices.
 
 </details>
 
@@ -86,7 +120,7 @@ Responsive ticket booking platform with search, cart management, real-time seat 
 <summary><b>💬 Relay</b> — Node.js · Socket.io</summary>
 <br>
 
-Real-time chat application built on Socket.io, handling live messaging with persistent connections.
+Real-time chat application built on Socket.io, handling live messaging over persistent connections.
 
 </details>
 
@@ -127,19 +161,9 @@ Requires the workflow file described below to generate it daily.
 
 ---
 
-<div align="center">
-
-
-
-</div>
-
-
----
-
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://shankar-portfolio-delta.vercel.app/)
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ShankarKarajanagi18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankar_karajanagi19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karajanagi-shankar-piragonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shankar__45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar.karajanagi7397@gmail.com) 
-
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ShankarKarajanagi18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankar_karajanagi19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karajanagi-shankar-piragonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shankar__45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar.karajanagi7397@gmail.com)
 
 💡 Always open to collaborations, discussions, and learning opportunities!
 
@@ -147,4 +171,3 @@ Requires the workflow file described below to generate it daily.
 
 ⭐️ *Feel free to check out my repositories and contribute!*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
-
