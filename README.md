@@ -129,31 +129,15 @@ Requires the workflow file described below to generate it daily.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karajanagi-shankar-piragonda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://shankar-portfolio-delta.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShankarKarajanagi18&color=6366F1&style=flat-square&label=Profile+Views)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
 
 ---
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShankarKarajanagi18&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShankarKarajanagi18&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShankarKarajanagi18&layout=compact&theme=github_dark" />
-</p>
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://shankar-portfolio-delta.vercel.app/)
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ShankarKarajanagi18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankar_karajanagi19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karajanagi-shankar-piragonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shankar__45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar.karajanagi7397@gmail.com) 
 
 
@@ -162,3 +146,5 @@ Requires the workflow file described below to generate it daily.
 ---
 
 ⭐️ *Feel free to check out my repositories and contribute!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
