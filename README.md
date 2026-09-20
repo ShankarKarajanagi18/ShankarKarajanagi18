@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=190&section=header&text=Shankar%20Karajanagi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/ShankarKarajanagi18">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+shipping+end-to-end+products;React+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL+%2F+MongoDB;ML%3A+scikit-learn+%7C+PyTorch+%7C+TensorFlow;Currently%3A+Backend+Intern+%40+Brilliant+AI+Travel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+shipping+end-to-end+products;React+%7C+FastAPI+%7C+Node.js+%7C+PostgreSQL+%2F+MongoDB;ML%3A+scikit-learn+%7C+PyTorch+%7C+TensorFlow;Currently%3A+Software+Developer+Intern+%40+Brilliant+AI+Travel" alt="Typing SVG" />
 </a>
 
 ![Location](https://img.shields.io/badge/📍-Bengaluru%2C_India-1a1a2e?style=flat-square)
