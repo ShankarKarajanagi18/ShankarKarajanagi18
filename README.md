@@ -8,7 +8,7 @@
 
 ![Location](https://img.shields.io/badge/📍-Bengaluru%2C_India-1a1a2e?style=flat-square)
 ![Education](https://img.shields.io/badge/🎓-B.Tech_CS_%40_CMR_University-1a1a2e?style=flat-square)
-![Role](https://img.shields.io/badge/💼-Backend_Intern_%40_Brilliant_AI_Travel-1a1a2e?style=flat-square)
+![Role](https://img.shields.io/badge/💼-Software_Developer_Intern_%40_Brilliant_AI_Travel-1a1a2e?style=flat-square)
 
 </div>
 
